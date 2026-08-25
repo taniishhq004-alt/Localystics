@@ -1,7 +1,21 @@
-node_modules/
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
 venv/
+.venv/
+frontend/node_modules/
+backend/venv/
+
+# Secrets
 .env
+.env.*
+backend/.env
+
+# macOS
 .DS_Store
 
+# Next.js
 frontend/.next/
