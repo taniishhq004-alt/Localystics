@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/activities/page": "/activities",
+  "/explore/page": "/explore",
+  "/for-you/page": "/for-you",
+  "/host/analytics/page": "/host/analytics",
+  "/host/opportunities/[id]/edit/page": "/host/opportunities/[id]/edit",
+  "/host/opportunities/create/page": "/host/opportunities/create",
+  "/host/opportunities/page": "/host/opportunities",
+  "/host/page": "/host",
+  "/host/profile/page": "/host/profile",
+  "/login/page": "/login",
+  "/near-me/page": "/near-me",
+  "/onboarding/page": "/onboarding",
+  "/opportunities/[id]/page": "/opportunities/[id]",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/register/page": "/register",
+  "/saved/page": "/saved",
+  "/settings/page": "/settings"
+}
